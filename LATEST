@@ -1,3 +1,5 @@
-- Fixed OpenSauce "Error in XML Document" error.
-- OpenSauce weapon positions are now persistent.
-- Showing the latest changelog when update is available.
+* Fixed "Error in XML Document" error for OpenSauce settings
+* OpenSauce weapon positions are now persistent
+* Showing the latest changelog when update is available
+* Change default UI background
+* Fix a small update mechanism quirk
